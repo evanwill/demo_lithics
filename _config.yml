@@ -11,7 +11,7 @@
 url: https://www.lib.uidaho.edu
 # location on the website, normally in /digital
 # e.g. /digital/hjccc
-baseurl: /digital/demo_lithics
+baseurl: /digital/test/demo_lithics
 # location of code, the full url to your github repository
 source-code: https://github.com/uidaholib/collectionbuilder-cdm-template
 # url to the shared assets folder on Digital
@@ -43,7 +43,7 @@ organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwh
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
 metadata: demo_lithics 
 # contentdm collection name, matches collection ID used by CDM
-digital-objects: /digital/demo_lithics/objects/
+digital-objects: /digital/test/demo_lithics/objects/
 # CONTENTdm server url
 cdm-url: https://digital.lib.uidaho.edu
 # page generation settings 
