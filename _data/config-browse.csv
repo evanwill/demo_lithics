@@ -2,7 +2,8 @@ field,display_name,btn,hidden
 date,Date,
 creator,Creator,
 subject,,true
+object_type,,true
+material_type,,true
+material_source,,true
 description,,,true
-format original,,,true
-identifier,,,true
-source,,,true
+original_identifier,,,

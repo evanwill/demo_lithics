@@ -3,6 +3,10 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
+object_type,Object Type,true
+material_type,Material Type,true
+material_source,Material Source,true
+object_notes,Object Notes,
 subject,Subjects,true
 location,Location
 latitude,Latitude

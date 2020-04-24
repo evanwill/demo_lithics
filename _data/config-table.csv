@@ -1,5 +1,7 @@
 field,display_name
 title,Title
 date,Date
+object_type,Type
+material_type,Material
 description,Description
-subject,Subjects
+original_identifier,Identifier
