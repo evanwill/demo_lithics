@@ -8,6 +8,6 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
-identifier,Source Identifier
+original_identifier,Source Identifier
 type,Type,
 format,Format,
